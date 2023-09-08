@@ -2,6 +2,7 @@
 Use AWS Lambda and Amazon EventBridge to automatically stop and start Amazon EC2 instances.This solution helps reduce operational costs by stopping resources that are not in use and starting resources when their capacity is needed.
 # SIMULATION CHART
 ![lambda](https://github.com/RAJAT-VAR/I_want_to_stop_and_start_my_Amazon_EC2_instances_automatically_to_reduce_my_Amazon_EC2_usage/assets/132341485/c51deda8-1bee-48bb-bd89-5769c2381af3)
+# SCREENSHOT
 <img width="924" alt="ROLE FOR LAMBDA FUNCTION" src="https://github.com/RAJAT-VAR/I_want_to_stop_and_start_my_Amazon_EC2_instances_automatically_to_reduce_my_Amazon_EC2_usage/assets/132341485/3526746f-b452-4f8c-98fd-e8e41eb88675">
 ![LAMBDA FUNCTION](https://github.com/RAJAT-VAR/I_want_to_stop_and_start_my_Amazon_EC2_instances_automatically_to_reduce_my_Amazon_EC2_usage/assets/132341485/189541b8-b692-4a58-a58d-05197fb78920)
 <img width="960" alt="Running Instance" src="https://github.com/RAJAT-VAR/I_want_to_stop_and_start_my_Amazon_EC2_instances_automatically_to_reduce_my_Amazon_EC2_usage/assets/132341485/0d5d1dc5-acbc-4598-9a58-efc6555e34fd">
